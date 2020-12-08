@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Roboto",
+        "weights": [
+            {
+                "weight": 400,
+                "style": "normal"
+            },
+            {
+                "weight": 500,
+                "style": "normal"
+            },
+            {
+                "weight": 700,
+                "style": "normal"
+            }
+        ],
+        "extensions": [
+            {
+                "format": "embedded-opentype",
+                "ext": "eot"
+            },
+            {
+                "format": "woff",
+                "ext": "woff2"
+            },
+            {
+                "format": "woff",
+                "ext": "woff"
+            },
+            {
+                "format": "truetype",
+                "ext": "ttf"
+            },
+            {
+                "format": "svg",
+                "ext": "svg"
+            }
+        ]
+    }
+]
